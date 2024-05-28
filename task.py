@@ -27,3 +27,4 @@ write_task = Task(
     async_execution=False,
     output_file='new-blog-post.md' # Example of output customization
 )
+
